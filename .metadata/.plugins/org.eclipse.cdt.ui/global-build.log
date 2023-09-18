@@ -1,0 +1,14 @@
+15:23:13 **** Incremental Build of configuration Debug for project toggle_button_with_state ****
+make -j12 all 
+arm-none-eabi-size   toggle_button_with_state.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5924	     20	   1572	   7516	   1d5c	toggle_button_with_state.elf
+Finished building: default.size.stdout
+ 
+15:23:31 **** Incremental Build of configuration Debug for project toggle_button_with_state ****
+make -j12 all 
+arm-none-eabi-size   toggle_button_with_state.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5924	     20	   1572	   7516	   1d5c	toggle_button_with_state.elf
+Finished building: default.size.stdout
+ 
